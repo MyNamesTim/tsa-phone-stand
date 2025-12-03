@@ -1,3 +1,4 @@
 # tsa-phone-stand
 
-# Files available in .stl format in the .ZIP archive.
+# CAD files available in .stl format in the .ZIP archive.
+# Explanation available in raw file format.
